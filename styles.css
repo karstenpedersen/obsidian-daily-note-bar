@@ -32,7 +32,7 @@
 	color: var(--interactive-accent);
 }
 .daily-note-navbar__not-exists {
-	color: var(--color-base-50);
+	color: var(--color-base-50) !important;
 }
 .daily-note-navbar__not-exists:hover {
 	color: inherit;
